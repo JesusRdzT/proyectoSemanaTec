@@ -1,0 +1,3 @@
+Propuesta
+
+Debido a la urbanización de las ciudades, la contaminación ambiental que se genera por las actividades humanas se ha extrapolado a otras áreas como el ruido, la temperatura o la luminiscencia. En nuestra solución planeamos medir estas tres métricas para determinar si una zona urbana específica está excediendo los niveles de contaminación auditiva, lumínica o tiene un aumento en la temperatura ambiente por encima de lo usual comparado con otras zonas similares. Con esta información se pueden localizar las zonas que requieren disminuir los niveles de contaminación de alguna de las métricas que estamos midiendo y posteriormente implementar una solución.
